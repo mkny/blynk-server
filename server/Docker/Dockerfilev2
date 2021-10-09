@@ -1,0 +1,3 @@
+FROM openjdk:18-slim-buster AS builder
+
+RUN mvn 
